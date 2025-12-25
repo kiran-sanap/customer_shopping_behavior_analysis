@@ -1,58 +1,86 @@
 # customer_shopping_behavior_analysis
 End-to-End Data Analytics Project | SQL • Python • Dashboard
 
-1) Project Overview
+📌 Project Summary
 
-This project analyzes customer shopping behavior to uncover purchasing patterns, identify high-value customers, and support data-driven business decisions.
-The analysis follows a complete end-to-end data analytics workflow, from business understanding to dashboard insights.
+This project demonstrates an end-to-end data analytics workflow to analyze customer shopping behavior and generate actionable business insights.
+The goal is to identify high-value customers, understand purchasing patterns, and support data-driven decision-making using SQL, Python, and data visualization.
 
-2) Business Objective
-Understand how customers shop and spend
-Identify repeat and high-value customers
-Analyze purchase frequency and category performance
-Provide actionable insights through an interactive dashboard
+🎯 Business Problem
 
-3) Dataset
-Customer and transaction-level shopping data
-Includes purchase history, customer details, and spending information
-(Dataset used only for learning and portfolio purposes)
+Businesses need to understand:
 
-4) Tools & Technologies
-SQL – Data extraction, filtering, aggregation
-Python – Data cleaning, feature engineering, EDA
-Pandas, NumPy, Matplotlib / Seaborn
-Dashboard Tool – Interactive data visualization
-Jupyter Notebook – Analysis & documentation
+Which customers generate the most revenue
 
-5) Data Analytics Workflow
-a) Business Understanding
-Reviewed business problem and defined KPIs
-Focused on customer behavior, revenue contribution, and retention
+How purchase frequency affects customer value
 
-b) Data Extraction (SQL)
+Which customer segments show different spending behaviors
+
+This project addresses these questions through structured analysis and dashboard reporting.
+
+🛠️ Skills & Tools (ATS Keywords)
+
+SQL (Data extraction, joins, aggregations)
+
+Python (Pandas, NumPy)
+
+Exploratory Data Analysis (EDA)
+
+Data Cleaning & Feature Engineering
+
+Data Visualization & Dashboarding
+
+Business Analytics & KPI Analysis
+
+Jupyter Notebook
+
+🔄 Data Analytics Workflow
+1️⃣ Business Understanding
+
+Translated business requirements into analytical objectives
+
+Defined KPIs such as total sales, purchase frequency, and customer value
+
+2️⃣ Data Extraction (SQL)
+
 Queried customer and transaction data
-Performed joins, aggregations, and validations
 
-c) Data Cleaning & Preparation (Python)
-Handled missing values and inconsistencies
-Created derived metrics (total spend, purchase frequency, segments)
+Performed filtering, grouping, and aggregations
 
-d) Exploratory Data Analysis (EDA)
-Analyzed spending patterns and customer segments
-Identified trends, variations, and key contributors
+3️⃣ Data Cleaning & Preparation (Python)
 
-e) Dashboard Development
-Built an interactive dashboard
+Handled missing values and data inconsistencies
+
+Created derived features (total spend, customer segments, frequency metrics)
+
+4️⃣ Exploratory Data Analysis (EDA)
+
+Analyzed customer behavior and spending patterns
+
+Identified trends, high-value customers, and key contributors
+
+5️⃣ Dashboard & Reporting
+
+Built an interactive dashboard for business users
+
 Visualized KPIs, customer distribution, and sales trends
-Enabled quick business insights using filters
 
-6) Key Insights
-Repeat customers generate higher revenue than one-time buyers
-A small percentage of customers contributes a large share of total sales
-Purchase frequency strongly impacts customer lifetime value
-Different customer segments show distinct spending behavior
+📊 Key Insights
 
-7) Conclusion
-Helps businesses identify high-value and loyal customers
-Supports targeted marketing and retention strategies
-Enables faster, data-driven decision-making through dashboards
+Repeat customers contribute significantly higher revenue than one-time buyers
+
+A small percentage of customers accounts for a major share of total sales
+
+Purchase frequency is a strong driver of customer lifetime value
+
+Different customer segments exhibit distinct purchasing behavior
+
+✅ Business Impact
+
+Enables identification of high-value and loyal customers
+
+Supports targeted marketing and customer retention strategies
+
+Improves data-driven decision-making through visual insights
+
+
