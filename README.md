@@ -31,5 +31,5 @@ The goal is to identify high-value customers, understand purchasing patterns, an
 
 
 Author: 
-Kiran Nirjala | Data Analyst
+Kiran Sanap | Data Analyst
 
