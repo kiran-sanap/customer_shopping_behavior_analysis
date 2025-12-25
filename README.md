@@ -1,40 +1,14 @@
 # customer_shopping_behavior_analysis
 End-to-End Data Analytics Project | SQL • Python • Dashboard
 
-1. Project Summary
-
-This project demonstrates an end-to-end data analytics workflow to analyze customer shopping behavior and generate actionable business insights.
+1. Project Summary:This project demonstrates an end-to-end data analytics workflow to analyze customer shopping behavior and generate actionable business insights.
 The goal is to identify high-value customers, understand purchasing patterns, and support data-driven decision-making using SQL, Python, and data visualization.
 
 
-2. Business Problem
-
-Businesses need to understand:
-
-Which customers generate the most revenue
-
-How purchase frequency affects customer value
-
-Which customer segments show different spending behaviors
-
-This project addresses these questions through structured analysis and dashboard reporting.
+2. Business Problem: Businesses need to understand: Which customers generate the most revenue, How purchase frequency affects customer value, Which customer segments show different spending behaviors, This project addresses these questions through structured analysis and dashboard reporting.
 
 
-3. Skills & Tools
-
-SQL (Data extraction, joins, aggregations)
-
-Python (Pandas, NumPy)
-
-Exploratory Data Analysis (EDA)
-
-Data Cleaning & Feature Engineering
-
-Data Visualization & Dashboarding
-
-Business Analytics & KPI Analysis
-
-Jupyter Notebook
+3. Skills & Tools: SQL (Data extraction, joins, aggregations), Python (Pandas, NumPy), Exploratory Data Analysis (EDA), Data Cleaning & Feature Engineering, Data Visualization & Dashboarding, Business Analytics & KPI Analysis, Jupyter Notebook.
 
 
 4. Data Analytics Workflow
