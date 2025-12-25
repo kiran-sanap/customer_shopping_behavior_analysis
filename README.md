@@ -13,19 +13,11 @@ The goal is to identify high-value customers, understand purchasing patterns, an
 
 4. Data Analytics Workflow
 
-a) Business Understanding
+   a) Business Understanding: Translated business requirements into analytical objectives,             Defined KPIs such as total sales, purchase frequency, and customer value
 
-Translated business requirements into analytical objectives
+   b) Data Extraction (SQL), Queried customer and transaction data, Performed filtering,               grouping, and aggregations
 
-Defined KPIs such as total sales, purchase frequency, and customer value
-
-b) Data Extraction (SQL)
-
-Queried customer and transaction data
-
-Performed filtering, grouping, and aggregations
-
-c) Data Cleaning & Preparation (Python)
+   c) Data Cleaning & Preparation (Python)
 
 Handled missing values and data inconsistencies
 
