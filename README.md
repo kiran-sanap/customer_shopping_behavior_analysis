@@ -13,47 +13,21 @@ The goal is to identify high-value customers, understand purchasing patterns, an
 
 4. Data Analytics Workflow
 
-   a) Business Understanding: Translated business requirements into analytical objectives,             Defined KPIs such as total sales, purchase frequency, and customer value
+   a) Business Understanding: Translated business requirements into analytical objectives,             Defined KPIs such as total sales, purchase frequency, and customer value.
 
-   b) Data Extraction (SQL), Queried customer and transaction data, Performed filtering,               grouping, and aggregations
+   b) Data Extraction (SQL): Queried customer and transaction data, Performed filtering,               grouping, and aggregations.
 
-   c) Data Cleaning & Preparation (Python)
+   c) Data Cleaning & Preparation (Python): Handled missing values and data inconsistencies,           Created derived features (total spend, customer segments, frequency metrics).
 
-Handled missing values and data inconsistencies
+   d) Exploratory Data Analysis (EDA): Analyzed customer behavior and spending patterns,               Identified trends, high-value customers, and key contributors.
 
-Created derived features (total spend, customer segments, frequency metrics)
-
-d) Exploratory Data Analysis (EDA)
-
-Analyzed customer behavior and spending patterns
-
-Identified trends, high-value customers, and key contributors
-
-e) Dashboard & Reporting
-
-Built an interactive dashboard for business users
-
-Visualized KPIs, customer distribution, and sales trends
+   e) Dashboard & Reporting: Built an interactive dashboard for business users, Visualized KPIs,    customer distribution, and sales trends.
 
 
-5. Key Insights
-
-Repeat customers contribute significantly higher revenue than one-time buyers
-
-A small percentage of customers accounts for a major share of total sales
-
-Purchase frequency is a strong driver of customer lifetime value
-
-Different customer segments exhibit distinct purchasing behavior
+5. Key Insights: Repeat customers contribute significantly higher revenue than one-time buyers, A small percentage of customers accounts for a major share of total sales, Purchase frequency is a strong driver of customer lifetime value, Different customer segments exhibit distinct purchasing behavior.
 
 
-6. Business Impact
-
-Enables identification of high-value and loyal customers
-
-Supports targeted marketing and customer retention strategies
-
-Improves data-driven decision-making through visual insights
+6. Business Impact: Enables identification of high-value and loyal customers, Supports targeted marketing and customer retention strategies, Improves data-driven decision-making through visual insights.
 
 
 Author: 
