@@ -2,6 +2,7 @@
 End-to-End Data Analytics Project | SQL • Python • Dashboard
 
 1) Project Overview
+
 This project analyzes customer shopping behavior to uncover purchasing patterns, identify high-value customers, and support data-driven business decisions.
 The analysis follows a complete end-to-end data analytics workflow, from business understanding to dashboard insights.
 
